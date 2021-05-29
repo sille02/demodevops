@@ -1,4 +1,2 @@
 #teste
 main
-raaa
-mano
